@@ -58,11 +58,4 @@ The script uses a while loop to update data continuously.
 
 Modify the update frequency in the script if needed.
 
-Author
-
-[Your Name]
-
-Contact
-
-For any queries, please reach out to sonika@primetrade.ai and CC chetantiwaridgp5@gmail.com, saamisajid@gmail.com.
 
